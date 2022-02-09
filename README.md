@@ -12,6 +12,7 @@ First, the class may be instantiated and the configuration for the types of data
 A range of techniques are supported, as well as pixel scaling methods. Specifically, the five main types of data augmentation techniques for image data are; 
 
 1.) Image shifts via the width_shift_range and height_shift_range arguments.
+
 2.) Image flips via the horizontal_flip and vertical_flip arguments.
 3.)  Image rotations via the rotation_range argument
 Image brightness via the brightness_range argument.
