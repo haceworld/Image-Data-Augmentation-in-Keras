@@ -18,7 +18,7 @@ A range of techniques are supported, as well as pixel scaling methods. Specifica
 3.)  Image rotations via the rotation_range argument.
 
 4.) Image brightness via the brightness_range argument.
-Image zoom via the zoom_range argument.
+5.)Image zoom via the zoom_range argument.
 
 
 Result of data augmentation
